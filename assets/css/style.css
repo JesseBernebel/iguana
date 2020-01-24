@@ -1,0 +1,84 @@
+body {
+    background-color: #000000;
+    font-family: 'Raleway', sans-serif;
+    color: #ffffff;
+    text-align: center;
+}
+
+h1, h2 {
+    font-weight: 500;
+}
+
+h1 {
+    font-size: 3.125rem;
+}
+
+h4, p {
+    font-weight: 300;
+}
+
+.descripcion {
+    height: 340px;
+}
+
+.parrafo {
+    display: inline-block;
+    width: 475px;
+    padding-left: 150px;
+    padding-right: 200px;
+    text-align: left;
+}
+
+.iguana__tronco {
+    width: 399px;
+    height: auto
+}
+
+section {
+    padding: 75px;
+}
+
+.iconos__caracteristicas {
+    display:inline-block;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+h2 {
+    font-size: 40px;
+    padding-bottom: 15px;
+}
+
+h4 {
+    font-size: 24px;
+}
+
+.fotos {
+    width: 326px;
+    height: 202px;
+}
+
+.galeria {
+    display: inline-block;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+section, footer {
+    background-color: #1E1A13;
+}
+
+footer {
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+
+p {
+    font-size: 18px;
+}
+
+
